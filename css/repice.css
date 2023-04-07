@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/bg_Argyle.jpg");
+}
+.center {
+    text-align: center;
+}
+.img-border {
+    border: 5px double lightcoral;
+}
+.red {
+    color: red;
+}
+.border-color {
+    border-color: red;
+}
+.position {
+    display: inline-block;
+}
+.top-left {
+    vertical-align: top;
+}
