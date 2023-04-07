@@ -1,8 +1,5 @@
 body {
     background-color: LightCyan;
-    margin-left: auto;
-    margin-right: auto;
-    width: 33%;
 }
 h4 {
     text-align: center;
@@ -12,6 +9,9 @@ form {
     background-color: white;
     border-radius: 20px;
     padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
 }
 .width {
     width: 100%;
